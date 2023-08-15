@@ -1,0 +1,2 @@
+config:
+  info: master-prod（测试有和上级目录同名的配置文件时，选择哪一个）
