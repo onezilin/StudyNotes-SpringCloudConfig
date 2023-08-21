@@ -1,5 +1,5 @@
 config:
-  info: master-dev
+  info: master-dev（change one）
 
 eureka:
   client:
